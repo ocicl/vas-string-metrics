@@ -1,0 +1,10 @@
+* vas-string-metrics
+
+Jaro-Winkler and Levenshtein string distance algorithms for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/vsedach/vas-string-metrics.git   |
+| commit  | ee75b8e  |
+| systems | vas-string-metrics |
+|---------+-------------------------------------------|
+
